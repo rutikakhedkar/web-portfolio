@@ -159,7 +159,7 @@ body { background: var(--smoky-black); }
 
 
 .avatar-box img {
-  width: 80px; /* Set the desired width */
+  width: 60px; /* Set the desired width */
   height: auto; /* Maintain aspect ratio */
 }
 
